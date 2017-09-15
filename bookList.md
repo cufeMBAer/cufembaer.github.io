@@ -8,8 +8,6 @@ title: "学习书单"
 
 
 
-- [经济学]()
-- [运营管理]()
-- [管理学]()
-- [会计学]()
+- [经济学.萨默尔森（第18版）](https://cufembaer.github.io/public/asset/booklist/经济学.萨默尔森（第18版）.pdf)
+
 
