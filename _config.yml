@@ -1,0 +1,20 @@
+# Permalinks
+permalink:           pretty
+
+
+# Setup
+title:               Jiang Zerui
+tagline:             '极简-Live a little'
+description:         ''
+url:                 http://jiangzerui.cn
+baseurl:            https://jiangzerui.github.io
+paginate:            5
+
+# About/contact
+author:
+  name:              J.Jiang
+  url:               https://jiangzerui.cn
+  email:             stonefavorite@126.com
+
+# Custom vars
+version:             1.0.0
