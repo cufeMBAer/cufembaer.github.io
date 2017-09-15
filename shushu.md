@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  数数
+title:  课表
 ---
 
 
 <!--
 - [拍摄于20170208北京家中(二楼)](http://jiangzerui.cn/public/asset/video/shushu_tea.mp4)
 -->
-- [拍摄于20170208北京家中(二楼)](http://jiangzerui.cn/shushu-video/2017-03-07-来个数数的视频)
+- [2017F1全日制课表](cufembaer.github.io/schedule/F1.jpeg)

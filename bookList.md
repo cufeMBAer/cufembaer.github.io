@@ -1,4 +1,4 @@
 ---
 layout: page
-title: "我的书单"
+title: "学习书单"
 ---
