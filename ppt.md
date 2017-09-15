@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "课件ppt"
+title: 课件PPT
 ---
 
 
@@ -8,5 +8,5 @@ title: "课件ppt"
 
 
 
-- [财务会计）](https://cufembaer.github.io/public/asset/ppt/财务会计.zip)
+- [财务会计](https://cufembaer.github.io/public/asset/ppt/财务会计.zip)
 
