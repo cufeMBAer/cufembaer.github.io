@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683bb6e8-5b7b-4e46-98e7-5ccef5c2c903" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/._2017-03-12-黑天鹅.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/._2017-07-17-717.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-13-Baco.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-14-say_something_to_students.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-17-Vocabulary-A debasing of American politics.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-30-new era.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-31-remind me.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-02-戒烟.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-03-戒烟2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-08-english online test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-02-26-小别离感触.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-03-github-jekyll-wsIDE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-03-go on.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-04-some sentence.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-05-关于归档分类的一些想法.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-05-加入多说及相关配置记录说明.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-06-数数的靓照.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-08-我交钱上学,你收钱教书.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-12-黑天鹅.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-13-恢复跑&amp;一个交易.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-14-恢复跑&amp;别了Fesco.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-15-prepare.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-26-SpringMVC项目问题.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-27-个人简介.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-16-补记一下刚从老家回来的照片.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-17-通过色彩建模的领域分析.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-03-as it should be.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-04-完成久已的事.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-27-做自己.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-16-结婚纪念日6.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-17-717.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-17-mac上moven的设置.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-19-Spring cloud的坑.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-20-SpringBoot再一个坑.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-28-步子放慢一点.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-29-项目中多角色用户的设计.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-07-30-关于github.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._.DS_Store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._0313run.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._1Picture1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._1Picture2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._716family.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._716quanjia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._716withson.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._IMG_5052.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._IMG_5073.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._Picture3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._Picture4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._Picture5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._Picture6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._exception01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._mbaprepare.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._myself01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._myself03.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._shushu02.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._shushu吹泡泡.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._tongzhishu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/._zhengquan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/0313run.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/0314run.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/1Picture1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/1Picture2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/716family.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/716quanjia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/716withson.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/IMG_5052.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/IMG_5071.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/IMG_5073.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/Picture3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/Picture4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/Picture5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/Picture6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/basketball.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/basketballyc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/blackswan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/exception01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/mba.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/mbaa.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/mbaprepare.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/myself00.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/myself01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/myself03.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/shushu01.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/shushu02.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/shushu吹泡泡.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/tongzhishu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/pic/zhengquan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/asset/video/shushu_tea.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shushu-video/2017-03-07-来个数数的视频.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookList.md" afterPath="$PROJECT_DIR$/bookList.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shushu.md" afterPath="$PROJECT_DIR$/shushu.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -110,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -146,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shushu.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shushu.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shushu.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -172,8 +79,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-371">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="660">
+              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -230,6 +137,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/shushu.md" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -322,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505445674244</updated>
-      <workItem from="1505445677747" duration="1487000" />
+      <workItem from="1505445677747" duration="1663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1487000" />
+    <option name="totallyTimeSpent" value="1663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -385,14 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -401,34 +302,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="113" lean-forward="false" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-371">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -471,6 +348,38 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
