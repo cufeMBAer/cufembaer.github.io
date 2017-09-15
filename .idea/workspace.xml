@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683bb6e8-5b7b-4e46-98e7-5ccef5c2c903" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppt.md" afterPath="$PROJECT_DIR$/ppt.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookList.md" afterPath="$PROJECT_DIR$/bookList.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,12 +69,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookList.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bookList.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schedule.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="schedule.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -149,8 +149,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Archive.md" />
         <option value="$PROJECT_DIR$/schedule.md" />
-        <option value="$PROJECT_DIR$/bookList.md" />
         <option value="$PROJECT_DIR$/ppt.md" />
+        <option value="$PROJECT_DIR$/bookList.md" />
       </list>
     </option>
   </component>
@@ -256,12 +256,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505445674244</updated>
-      <workItem from="1505445677747" duration="5358000" />
+      <workItem from="1505445677747" duration="5420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5358000" />
+    <option name="totallyTimeSpent" value="5420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="76" y="140" width="1280" height="773" extended-state="0" />
@@ -460,17 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="68" lean-forward="false" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ppt.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -492,6 +481,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
