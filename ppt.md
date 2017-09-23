@@ -8,7 +8,7 @@ title: 课件PPT
 
 
 
-- [财务会计](https://pan.baidu.com/disk/home#list/vmode=list&path=%2F2017MBA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F%E8%B4%A2%E5%8A%A1%E4%BC%9A%E8%AE%A1)
+- [财务会计](C:\Users\siyuliu1\Documents\GitHub\cufembaer.github.io\public\asset\ppt\财务会计)
 - [管理思维与沟通](https://pan.baidu.com/disk/home#list/vmode=list&path=%2F2017MBA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F%E7%AE%A1%E7%90%86%E6%80%9D%E7%BB%B4%E4%B8%8E%E6%B2%9F%E9%80%9A)
 - [管理经济学](https://pan.baidu.com/disk/home#list/vmode=list&path=%2F2017MBA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F%E7%AE%A1%E7%90%86%E7%BB%8F%E6%B5%8E%E5%AD%A6)
 - [金融市场与金融机构](https://pan.baidu.com/disk/home#list/vmode=list&path=%2F2017MBA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E4%B8%8E%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84)
