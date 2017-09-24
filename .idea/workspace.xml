@@ -37,8 +37,8 @@
       <file leaf-file-name="ppt.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ppt.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="272">
+              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -147,8 +147,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="160" />
-    <option name="y" value="54" />
+    <option name="x" value="100" />
+    <option name="y" value="127" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
@@ -209,14 +209,6 @@
               <item name="cufembaer.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="asset" type="462c0819:PsiDirectoryNode" />
-              <item name="ppt" type="462c0819:PsiDirectoryNode" />
-              <item name="管理经济学" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cufembaer.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cufembaer.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="asset" type="462c0819:PsiDirectoryNode" />
               <item name="schedule" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -267,15 +259,15 @@
       <workItem from="1505445677747" duration="5703000" />
       <workItem from="1505813949914" duration="931000" />
       <workItem from="1506050558651" duration="4342000" />
-      <workItem from="1506138150453" duration="1294000" />
+      <workItem from="1506138150453" duration="2734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12270000" />
+    <option name="totallyTimeSpent" value="13710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="160" y="54" width="1280" height="773" extended-state="0" />
+    <frame x="100" y="127" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920887" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -632,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ppt.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding />
         </state>
       </provider>
