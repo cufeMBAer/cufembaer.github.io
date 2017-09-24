@@ -34,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ppt.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ppt.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppt.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-22-Physical Examination.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-09-22-Physical Examination.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Physical Examination.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -135,8 +135,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-09-15-通知.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-19-financial selected.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-22-Physical Examination.md" />
         <option value="$PROJECT_DIR$/ppt.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-22-Physical Examination.md" />
       </list>
     </option>
   </component>
@@ -147,8 +147,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="100" />
-    <option name="y" value="127" />
+    <option name="x" value="126" />
+    <option name="y" value="49" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
@@ -259,15 +259,15 @@
       <workItem from="1505445677747" duration="5703000" />
       <workItem from="1505813949914" duration="931000" />
       <workItem from="1506050558651" duration="4342000" />
-      <workItem from="1506138150453" duration="2734000" />
+      <workItem from="1506138150453" duration="2838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13710000" />
+    <option name="totallyTimeSpent" value="13814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="127" width="1280" height="773" extended-state="0" />
+    <frame x="126" y="49" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920887" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -601,14 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Physical Examination.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/asset/schedule/F1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -625,7 +617,15 @@
     <entry file="file://$PROJECT_DIR$/ppt.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-22-Physical Examination.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
