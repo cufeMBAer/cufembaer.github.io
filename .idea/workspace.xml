@@ -38,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/homework.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+              <caret line="9" column="99" lean-forward="false" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
               <folding />
             </state>
           </provider>
@@ -249,12 +249,12 @@
       <workItem from="1506050558651" duration="4342000" />
       <workItem from="1506138150453" duration="5519000" />
       <workItem from="1506258494731" duration="126000" />
-      <workItem from="1506303667383" duration="49000" />
+      <workItem from="1506303667383" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16670000" />
+    <option name="totallyTimeSpent" value="17322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="49" width="1280" height="773" extended-state="0" />
@@ -565,14 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookList.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ppt.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -591,6 +583,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bookList.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/asset/homework/week 2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -599,7 +599,7 @@
     <entry file="file://$PROJECT_DIR$/homework.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="60" lean-forward="false" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <caret line="9" column="99" lean-forward="false" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
           <folding />
         </state>
       </provider>
