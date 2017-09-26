@@ -15,4 +15,3 @@ title: 课件PPT
 - [数据、模型与决策（李连友）](https://pan.baidu.com/s/1c24cH1m)
 - [自学作业答案集锦](https://pan.baidu.com/s/1c10yGG4)
 - [导学课程](https://pan.baidu.com/s/1eRPxjvO)
-- [财务会计（lsy）](https://pan.baidu.com/s/1i5kpIcP)
